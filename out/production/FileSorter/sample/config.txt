@@ -1,0 +1,15 @@
+jpg
+png
+mp3
+mp4
+modd
+moff
+arw
+txt
+pdf
+docx
+zip
+exe
+blend
+msi
+xlsx
